@@ -33,9 +33,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayinkx01&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="profile/stats.svg" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayinkx01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="profile/top-langs.svg" alt="Top Languages"/>
 
 </p>
 
@@ -55,17 +55,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayinkx01&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx01&theme=tokyonight&hide_border=true"/>
+<img src="profile/trophies.svg" alt="GitHub Trophies"/>
 
 </p>
 
@@ -75,7 +65,11 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Ayinkx01/Ayinkx01/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="output/github-contribution-grid-snake.svg" />
+</picture>
 
 </p>
 
