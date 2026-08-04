@@ -33,9 +33,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayinkx1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayinkx01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayinkx1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayinkx01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -45,7 +45,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Ayinkx1&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Ayinkx01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -55,7 +55,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayinkx1&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ayinkx01&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -65,7 +65,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx1&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayink0x1&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -75,7 +75,7 @@
 
 <p align="center">
 
-<img src="https://github.com/Ayinkx1/Ayinkx1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/Ayinkx01/Ayinkx01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </p>
 
@@ -85,7 +85,7 @@
 
 <p align="center">
 
-<a href="https://github.com/Ayinkx1" target="_blank">
+<a href="https://github.com/Ayinkx01" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
 
@@ -97,7 +97,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
 </a>
 
-<a href="https://www.facebook.com/YOURUSERNAME" target="_blank">
+<a href="https://www.facebook.com/ayinkxreacts" target="_blank">
 <img src="https://img.shields.io/badge/ayinkxreacts-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -146,7 +146,7 @@
 
 ### 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=Ayinkx1&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Ayinkx01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
