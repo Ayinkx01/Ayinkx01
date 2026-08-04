@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ayinkx
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Open+Source+Contributor;Learning+Flask+%26+Backend+Development;Learning+Docker;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Developer;Open+Source+Contributor;Learning+Flask%2C+Docker+%26+SQL" />
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayink0x1&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -75,7 +75,7 @@
 
 <p align="center">
 
-<img src="https://github.com/Ayinkx01/Ayinkx01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ayinkx01/Ayinkx01/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </p>
 
@@ -93,7 +93,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:olayinkaawal00@gmailicom">
+<a href="mailto:olayinkaawal00@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50" alt="Email"/>
 </a>
 
