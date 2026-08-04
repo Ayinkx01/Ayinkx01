@@ -61,6 +61,16 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx01&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
