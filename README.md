@@ -61,11 +61,15 @@
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayinkx01&theme=tokyonight&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-contribution-heatmap-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="output/github-contribution-heatmap-light.svg" />
+  <img alt="Contribution Graph" src="output/github-contribution-heatmap-light.svg" />
+</picture>
 
 </p>
 
